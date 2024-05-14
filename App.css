@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  margin-top: 20px;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.Filter input {
+  padding: 8px;
+  margin-bottom: 10px;
+}
+
+.MatchList {
+  text-align: left;
+}
+
+.MatchList ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.MatchList li {
+  margin-bottom: 10px;
+}
