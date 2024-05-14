@@ -1,0 +1,7 @@
+{
+  "matches": [
+    { "id": 1, "team1": "Česko", "team2": "Slovensko" },
+    { "id": 2, "team1": "USA", "team2": "Kanada" },
+    { "id": 3, "team1": "Rusko", "team2": "Švédsko" }
+  ]
+}
